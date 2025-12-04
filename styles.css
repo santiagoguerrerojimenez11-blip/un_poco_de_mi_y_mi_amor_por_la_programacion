@@ -29,7 +29,9 @@ body{
     border: 2px solid yellow;
     background-color: yellow;
     border-radius: 6px;
-    text-align: center;
+    width: fit-content;
+    display: block;
+    margin: 0 auto;
 }
 .nav a {
     font-size: 20px;
@@ -96,3 +98,48 @@ body{
 .pvi {
     background-color: rgb(0, 166, 255);
 }
+.ing{
+    text-align: center;
+    color: yellow;
+}
+.clave{
+ background-color: aqua;   
+ display: block;
+ margin: 0 auto;
+ width: fit-content;
+ border: 2px solid aqua;
+ border-radius: 6px;
+
+}
+.contacto{
+    background-color: yellow;
+    border: 2px solid yellow;
+    border-radius: 6px  ;
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+
+}
+.contacto a {
+   text-decoration: none;
+   font-size: 20px;
+   color: blue;
+   
+}
+.conta {
+    color: yellow;
+    
+}
+.li {
+  border: none;
+  height: 2px;
+  background-color: black;
+  width: 100%;
+  margin: 20px auto;
+}
+.copy{
+    text-align: center;
+    font-size: small;
+}
+
+
